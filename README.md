@@ -1,8 +1,8 @@
 # Secure Data Encryption with AWS KMS & DynamoDB
 
-Author: Hayder Ben Abdelhamid
-Email: haider.abdelhamid@gmail.com
-Role: Cybersecurity Engineering Student 
+**Author:** Hayder Ben Abdelhamid  
+**Email:** haider.abdelhamid@gmail.com  
+**Role:** Cybersecurity Engineering Student
 
 This document extracts the technical operational steps and commands required to set up customer-managed encryption keys in AWS KMS, apply them to a DynamoDB table, and validate access boundaries via IAM policies.
 
